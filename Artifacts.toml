@@ -1,0 +1,89 @@
+[[Xorg_glproto]]
+arch = "armv7l"
+git-tree-sha1 = "518430f9bb8bb716a4caa3c64f21ab998547d8e2"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_glproto.download]]
+    sha256 = "9c2b2222b4a77932fe4ec6f24a0b34d39419749098eac76ee396c90166fcda7f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_glproto_jll.jl/releases/download/Xorg_glproto-v1.4.17+0/Xorg_glproto.v1.4.17.arm-linux-gnueabihf.tar.gz"
+[[Xorg_glproto]]
+arch = "aarch64"
+git-tree-sha1 = "b1758f1e72381bc5af627b1c94c3a9927906ad43"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_glproto.download]]
+    sha256 = "d562f35755576738c9f3619693bc0290ee61722daecc9cd6aaee44d70305d707"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_glproto_jll.jl/releases/download/Xorg_glproto-v1.4.17+0/Xorg_glproto.v1.4.17.aarch64-linux-musl.tar.gz"
+[[Xorg_glproto]]
+arch = "i686"
+git-tree-sha1 = "9fc2b83340d535897e45649bcf14a3b4ac956f11"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_glproto.download]]
+    sha256 = "74727997df8bb07cd40564b492a480074e7dada99c9b0a9a365a7f7bc8e61f23"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_glproto_jll.jl/releases/download/Xorg_glproto-v1.4.17+0/Xorg_glproto.v1.4.17.i686-linux-musl.tar.gz"
+[[Xorg_glproto]]
+arch = "i686"
+git-tree-sha1 = "7e9fe13f3363df3939c1fd2d98aebf9496263316"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_glproto.download]]
+    sha256 = "cd28c27f394223b226474fce96fb54d7fb1654e0d71bb2e8126d859a7f028431"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_glproto_jll.jl/releases/download/Xorg_glproto-v1.4.17+0/Xorg_glproto.v1.4.17.i686-linux-gnu.tar.gz"
+[[Xorg_glproto]]
+arch = "x86_64"
+git-tree-sha1 = "bde87edf38e1036fb391b8241d9cf11488a3af72"
+os = "freebsd"
+
+    [[Xorg_glproto.download]]
+    sha256 = "e6f93afe68aceb1c8fe95739c483414c5e4ecd37fb19769d7310b7705e4db189"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_glproto_jll.jl/releases/download/Xorg_glproto-v1.4.17+0/Xorg_glproto.v1.4.17.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_glproto]]
+arch = "powerpc64le"
+git-tree-sha1 = "a16b70b326b0df1981d6d0cdb81f7ae59380fc96"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_glproto.download]]
+    sha256 = "f8da67c9a6dc88c71aee01a2f2d5518bc28ee29582d5cc68f06ab982fb456fc1"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_glproto_jll.jl/releases/download/Xorg_glproto-v1.4.17+0/Xorg_glproto.v1.4.17.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_glproto]]
+arch = "armv7l"
+git-tree-sha1 = "ff49b53168508d1fb8263d393aa5a9c8514ff267"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_glproto.download]]
+    sha256 = "16e820dc5af0c8fe1e6d6fc60d56da0d46a67d673e96c35738d0a83f5b79b176"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_glproto_jll.jl/releases/download/Xorg_glproto-v1.4.17+0/Xorg_glproto.v1.4.17.arm-linux-musleabihf.tar.gz"
+[[Xorg_glproto]]
+arch = "aarch64"
+git-tree-sha1 = "81145b91140b5a55d2f2442a4e30a002300440f2"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_glproto.download]]
+    sha256 = "ccc2003f42b5a1c5eba663a4e2fc25ba47b021fe53072f3c44b34b9bb2b35ab7"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_glproto_jll.jl/releases/download/Xorg_glproto-v1.4.17+0/Xorg_glproto.v1.4.17.aarch64-linux-gnu.tar.gz"
+[[Xorg_glproto]]
+arch = "x86_64"
+git-tree-sha1 = "1f3b6b65fa0db3d03fe473c1e24ea7af49e007fa"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_glproto.download]]
+    sha256 = "b4f071aedbdd4d0cf88eb46cdadfa5111a99c1945785cc7673824ffa0532210d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_glproto_jll.jl/releases/download/Xorg_glproto-v1.4.17+0/Xorg_glproto.v1.4.17.x86_64-linux-gnu.tar.gz"
+[[Xorg_glproto]]
+arch = "x86_64"
+git-tree-sha1 = "248c6763fcd2a4716df20783922d45ea062515cf"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_glproto.download]]
+    sha256 = "878f2f5c2f11cde228f1d6aff79e2cbd0a823715968dd3de16fd1b7b5a038ad5"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_glproto_jll.jl/releases/download/Xorg_glproto-v1.4.17+0/Xorg_glproto.v1.4.17.x86_64-linux-musl.tar.gz"
